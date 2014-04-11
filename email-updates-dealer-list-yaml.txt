@@ -1,0 +1,997 @@
+---
+AL0170:
+  :fromname: The Paper Lady
+  :frommail: thepaperlady@et.printswell.com
+  :logo: AL0170.gif
+  :web: http://thepaperlady.printswell.com/
+  :email: donna@thepaperlady.net
+AL0232:
+  :fromname: Paper With Purpose
+  :frommail: paperwithpurpose@et.printswell.com
+  :logo: AL0232.gif
+  :web: http://paperwithpurpose.printswell.com/
+  :email: paperwithpurpose@gmail.com
+AL0294:
+  :fromname: A Passion for Paper
+  :frommail: apassionforpaper@et.printswell.com
+  :logo: AL0294.gif
+  :web: http://passion4paper.printswell.com/
+  :email: passion4paper@charter.net
+AL0357:
+  :fromname: Dixie Doodles
+  :frommail: dixiedoodles@et.printswell.com
+  :logo: AL0357.gif
+  :web: http://dixiedoodles.printswell.com/
+  :email: arockett@hotmail.com
+AL0388:
+  :fromname: Little Magic Cards
+  :frommail: littlemagiccards@et.printswell.com
+  :logo: AL0388.gif
+  :web: http://littlemagiccards.printswell.com/
+  :email: temisha@littlemagiccards.com
+AL0390:
+  :fromname: Paper Fetish
+  :frommail: paperfetish@et.printswell.com
+  :logo: AL0390.gif
+  :web: http://paperfetish.printswell.com/
+  :email: jillmhedges@hotmail.com
+AR0044:
+  :fromname: You Name It
+  :frommail: younameit@et.printswell.com
+  :logo: AR0044.gif
+  :web: http://younameit.printswell.com/
+  :email: younameitsam@gmail.com
+AR0046:
+  :fromname: Southern Loop
+  :frommail: southernloop@et.printswell.com
+  :logo: AR0046.gif
+  :web: http://southernloop.printswell.com/
+  :email: southernloop@gmail.com
+AZ0043:
+  :fromname: Papercuts
+  :frommail: papercuts@et.printswell.com
+  :logo: AZ0043.gif
+  :web: http://rockpaperscissorsinvitations.printswell.com/
+  :email: rockpaperscissors3@yahoo.com
+AZ0075:
+  :fromname: Ink Ala Mode
+  :frommail: inkalamode@et.printswell.com
+  :logo: AZ0075.gif
+  :web: http://inkalamode.printswell.com/
+  :email: customerhelp@inkalamode.com
+CA0147:
+  :fromname: Traylor Papers
+  :frommail: traylorpapers@et.printswell.com
+  :logo: CA0147.gif
+  :web: http://traylorpapers.printswell.com/
+  :email: sales@traylorpapers.com
+CA0151:
+  :fromname: You're Invited
+  :frommail: youreinvited@et.printswell.com/
+  :logo: CA0151.gif
+  :web: http://youreinvited.printswell.com/
+  :email: youreinvited1@yahoo.com
+CA0427:
+  :fromname: Invites Couture Inc
+  :frommail: iInvitescouture@et.printswell.com
+  :logo: CA0427.gif
+  :web: http://invitescouture.printswell.com/
+  :email: info@invitescouture.com
+CA0431:
+  :fromname: Stylish Scribbles
+  :frommail: stylishscribbles@et.printswell.com
+  :logo: CA0431.gif
+  :web: http://stylishscribbles.printswell.com/
+  :email: stylishscribbles@gmail.com
+CA0440:
+  :fromname: PaperSplash
+  :frommail: papersplash@et.printswell.com
+  :logo: CA0440.gif
+  :web: http://papersplash.printswell.com/
+  :email: lauradrobertson@rocketmail.com
+CN0017:
+  :fromname: Scripts
+  :frommail: scriptsmd@et.printswell.com
+  :logo: CN0017.gif
+  :web: http://scriptstationery.printswell.com/
+  :email: scriptsmd@hotmail.com
+CO0084:
+  :fromname: Hearthfire Books
+  :frommail: hearthfirebooks@et.printswell.com
+  :logo: CO0084.gif
+  :web: http://hearthfirebooks.printswell.com/
+  :email: info@hearthfirebooks.com
+CO0149:
+  :fromname: Paper Loves 57
+  :frommail: paperloves13@et.printswell.com
+  :logo: CO0149.gif
+  :web: http://paperloves13.printswell.com/
+  :email: paperloves13@gmail.com
+CO0151:
+  :fromname: Posh Peak Paperie
+  :frommail: poshpeakpaperie@et.printswell.com
+  :logo: CO0151.gif
+  :web: http://poshpeakpaperie.printswell.com/
+  :email: poshpeakpaperie@gmail.com
+CT0008:
+  :fromname: Truly Yours LLC
+  :frommail: trulyyoursllc@et.printswell.com
+  :logo: CT0008.gif
+  :web: http://trulyyoursllc.printswell.com/
+  :email: dawn@trulyyoursllc.com
+CT0047:
+  :fromname: Papers of Note
+  :frommail: papersofnote@et.printswell.com
+  :logo: CT0047.gif
+  :web: http://papersofnote.printswell.com/
+  :email: sarahbparsons@aol.com
+CT0166:
+  :fromname: The Party Connection
+  :frommail: thepartyconnection@et.printswell.com
+  :logo: CT0166.gif
+  :web: http://thepartyconnection.printswell.com/
+  :email: thepartyconnection@gmail.com
+CT0172:
+  :fromname: Post Script Papery
+  :frommail: postscriptpapery@et.printswell.com
+  :logo: CT0172.gif
+  :web: http://postscriptpapery.printswell.com/
+  :email: diana@postscriptpapery.com
+CT0175:
+  :fromname: Chickadees Designs
+  :frommail: chickadeesdesigns@et.printswell.com
+  :logo: CT0175.gif
+  :web: http://chickadeesdesigns.printswell.com/
+  :email: chickadeesdesigns@yahoo.com
+FL0002:
+  :fromname: Sincerely Yours Diane
+  :frommail: sincerelyyoursdiane@et.printswell.com
+  :logo: FL0002.gif
+  :web: http://sincerelyyoursdiane.printswell.com/
+  :email: diane@sydiane.com
+FL0013:
+  :fromname: By Invitation Only from Susan McGrath
+  :frommail: byinvitationonly@et.printswell.com
+  :logo: FL0013.gif
+  :web: http://pinecrestpapers.printswell.com/
+  :email: pinecrestpapers@aol.com
+FL0027:
+  :fromname: Sassafras Stationery & Gifts
+  :frommail: sassafras-online@et.printswell.com
+  :logo: FL0027.gif
+  :web: http://sassafras-online.printswell.com/
+  :email: info@sassafras-online.com
+FL0051:
+  :fromname: Timeless Impressions
+  :frommail: timelessimpressions@et.printswell.com
+  :logo: FL0051.gif
+  :web: http://timelessimp.printswell.com/
+  :email: invitations@timelessimp.com
+FL0071:
+  :fromname: The Paper Tree
+  :frommail: thepapertree@et.printswell.com
+  :logo: FL0071.gif
+  :web: http://thepapertree.printswell.com/
+  :email: tandcharper@yahoo.com
+FL0143:
+  :fromname: Kathryn Cleveland
+  :frommail: kathryncleveland@et.printswell.com
+  :logo: FL0143.gif
+  :web: http://kcleveland.printswell.com/
+  :email: kccleveland12@gmail.com
+FL0220:
+  :fromname: Creative Callings
+  :frommail: creativecallings@et.printswell.com
+  :logo: FL0220.gif
+  :web: http://creativecallings.printswell.com/
+  :email: shigby@aol.com
+FL0222:
+  :fromname: Pen and Parchment
+  :frommail: penpandparchment@et.printswell.com
+  :logo: FL0222.gif
+  :web: http://penandparchment.printswell.com/
+  :email: service@penandparchment.net
+FL0235:
+  :fromname: Paper Mpressions
+  :frommail: papermpressions@et.printswell.com
+  :logo: FL0235.gif
+  :web: http://paperdestination.printswell.com/
+  :email: papmpr@bellsouth.net
+FL0239:
+  :fromname: Maureen Hall Stationery & Invitations
+  :frommail: maureenhallstationery@et.printswell.com
+  :logo: FL0239.gif
+  :web: http://maureenhall.printswell.com/
+  :email: hallinvitations@aol.com
+FL0257:
+  :fromname: Dragonflies and Bumblebees
+  :frommail: dragonfliesandbumblebees@et.printswell.com
+  :logo: FL0257.gif
+  :web: http://dragonfliesandbumblebees.printswell.com/
+  :email: chforsberg@yahoo.com
+FL0300:
+  :fromname: No Regrets
+  :frommail: noregretsonline@et.printswell.com
+  :logo: FL0300.gif
+  :web: http://noregrets.printswell.com/
+  :email: noregretsonline@yahoo.com
+FL0372:
+  :fromname: Abby Brown's Cards
+  :frommail: abbybrownscards@et.printswell.com
+  :logo: FL0372.gif
+  :web: http://abbybrownscards.printswell.com/
+  :email: Abbybrownscards@cfl.rr.com
+FL0511:
+  :fromname: An Invitation to Grace
+  :frommail: aninvitationtograce@et.printswell.com
+  :logo: FL0511.gif
+  :web: http://invitationtograce.printswell.com/
+  :email: aninvitationtograce@gmail.com
+FL0513:
+  :fromname: Always Invited
+  :frommail: alwaysinvited@et.printswell.com
+  :logo: FL0513.gif
+  :web: http://alwaysinvited.printswell.com/
+  :email: stacy@alwaysinvited.com
+FL0531:
+  :fromname: Paper Boutique
+  :frommail: paperboutique@et.printswell.com
+  :logo: FL0531.gif
+  :web: http://paperboutiquesouthmiami.printswell.com/
+  :email: paperboutique@yahoo.com
+FL0542:
+  :fromname: Paradise Papers
+  :frommail: paradisepapers@et.printswell.com
+  :logo: FL0542.gif
+  :web: http://paradisepapers.printswell.com/
+  :email: ylbarbara12@gmail.com
+FL0570:
+  :fromname: Nicole Marie
+  :frommail: nicolemarieeventstudio@et.printswell.com
+  :logo: FL0570.gif
+  :web: http://nicolemeventstudio.printswell.com/
+  :email: info@nicolemeventstudio.com
+GA0019:
+  :fromname: Room Service
+  :frommail: roomservice@et.printswell.com
+  :logo: GA0019.gif
+  :web: http://roomservice.printswell.com/
+  :email: proofs.shoproomservice@gmail.com
+GA0274:
+  :fromname: Noteworthy
+  :frommail: noteworthystyle@et.printswell.com
+  :logo: GA0274.gif
+  :web: http://noteworthystyle.printswell.com/
+  :email: christystargel@att.net
+GA0356:
+  :fromname: ellie and co
+  :frommail: ellieandco@et.printswell.com
+  :logo: GA0356.gif
+  :web: http://ellieandco.printswell.com/
+  :email: missy@ellieandco.com
+GA0438:
+  :fromname: Paper Chase
+  :frommail: paperchase@et.printswell.com
+  :logo: GA0438.gif
+  :web: http://paperchase.printswell.com/
+  :email: ckchase03@hotmail.com
+GA0452:
+  :fromname: Whimsees
+  :frommail: whimsees@et.printswell.com
+  :logo: GA0452.gif
+  :web: http://whimsees.printswell.com/
+  :email: hello@whimsees.com
+IL0103:
+  :fromname: lizzardprints
+  :frommail: lizzardprints@et.printswell.com
+  :logo: IL0103.gif
+  :web: http://lizzardprints.printswell.com/
+  :email: lizzardprints@sbcglobal.net
+IL0141:
+  :fromname: Leslie Riemer
+  :frommail: wordsandwishes@et.printswell.com
+  :logo: IL0141.gif
+  :web: http://wordsandwishes.printswell.com/
+  :email: lsriemer@comcast.net
+IL0213:
+  :fromname: Traces Of Heaven + Gift Bandit
+  :frommail: tracesofheavengiftbandit@et.printswell.com
+  :logo: IL0213.gif
+  :web: http://giftbandit.printswell.com/
+  :email: mariette@giftbandit.com
+IL0235:
+  :fromname: FUN Cards and Gifts
+  :frommail: funcardsandgifts@et.printswell.com
+  :logo: IL0235.gif
+  :web: http://funcardsandgifts.printswell.com/
+  :email: printshop@funcardsandgifts.com
+IN0090:
+  :fromname: Westwood Paper Company
+  :frommail: westwoodpapercompany
+  :logo: IN0090.gif
+  :web: http://westwoodpaper.printswell.com/
+  :email: Jill@westwoodpaper.com
+IN0093:
+  :fromname: Unique By Design
+  :frommail: uniquebydesign@et.printswell.com
+  :logo: IN0093.gif
+  :web: http://uniquebydesign.printswell.com/
+  :email: emily.winters@sbcglobal.net
+KS0005:
+  :fromname: Statements
+  :frommail: statements@et.printswell.com
+  :logo: KS0005.gif
+  :web: http://statementskc.printswell.com/
+  :email: statementskc@sbcglobal.net
+KS0023:
+  :fromname: Sincerely Yours
+  :frommail: sincerelyyours@et.printswell.com
+  :logo: KS0023.gif
+  :web: http://sincerelyyours.printswell.com/
+  :email: sincerelyyoursks@kc.rr.com
+KY0012:
+  :fromname: Etcetera
+  :frommail: etcetera@et.printswell.com
+  :logo: KY0012.gif
+  :web: http://personalizeit.printswell.com/
+  :email: info@etceteraoflouisville.com
+KY0053:
+  :fromname: On A Personal Note
+  :frommail: onapersonalnote@et.printswell.com
+  :logo: KY0053.gif
+  :web: http://vintagerose.printswell.com/
+  :email: sarah@vintagerose.com
+KY0066:
+  :fromname: Karen Edwards Stationery
+  :frommail: karenedwardsstationery@et.printswell.com
+  :logo: KY0066.gif
+  :web: http://karenedwards.printswell.com/
+  :email: edwards158@comcast.net
+KY0087:
+  :fromname: Invitations on Main
+  :frommail: invitationsonmain@et.printswell.com
+  :logo: KY0087.gif
+  :web: http://invitationsonmain.printswell.com/
+  :email: bsint@bellsouth.net
+LA0036:
+  :fromname: The Keeping Room
+  :frommail: thekeepingroom@et.printswell.com
+  :logo: LA0036.gif
+  :web: http://thekeepingroom.printswell.com/
+  :email: proofs@thekeepingroombr.com
+LA0065:
+  :fromname: Invitations Etc.
+  :frommail: invitationsetc@et.printswell.com
+  :logo: LA0065.gif
+  :web: http://invitations-etc.printswell.com/
+  :email: invitations_etc@charter.net
+LA0066:
+  :fromname: Something in Particular
+  :frommail: somethinginparticular@et.printswell.com
+  :logo: LA0066.gif
+  :web: http://somethinginparticular.printswell.com/
+  :email: somethinginparticular@msn.com
+LA0091:
+  :fromname: Mint Julep Paperie
+  :frommail: mintjuleppaperie@et.printswell.com
+  :logo: LA0091.gif
+  :web: http://shopmjp.printswell.com/
+  :email: mintjuleppaperie@gmail.com
+MA0233:
+  :fromname: Allure Invitations
+  :frommail: allureinvitations@et.printswell.com
+  :logo: MA0233.gif
+  :web: http://allureinvitations.printswell.com/
+  :email: mara@allureinvites.com
+MA0249:
+  :fromname: Lady Slipper Stationery
+  :frommail: ladyslipperstationery@et.printswell.com
+  :logo: MA0249.gif
+  :web: http://ladyslipperstationery.printswell.com/
+  :email: ladyslipperstationery@et.printswell.com
+MA0277:
+  :fromname: Paper Jewels
+  :frommail: paperjewels@et.printswell.com
+  :logo: MA0277.gif
+  :web: http://paperjewels.printswell.com/
+  :email: paperjewels@yahoo.com
+MD0009:
+  :fromname: Creative Parties Ltd
+  :frommail: creativeparties@et.printswell.com
+  :logo: MD0009.gif
+  :web: http://creativeparties.printswell.com/
+  :email: tracy@creativeparties.com
+MD0029:
+  :fromname: Karrie's Paper Trail
+  :frommail: karriespapertrail@et.printswell.com
+  :logo: MD0029.gif
+  :web: http://karriespapertrail.printswell.com/
+  :email: kcerone@msn.com
+MD0034:
+  :fromname: Sincerely Yours
+  :frommail: sincerelyyours@et.printswell.com
+  :logo: MD0034.gif
+  :web: http://sinceyours.printswell.com/
+  :email: jill@sincerelyyours-md.com
+MD0072:
+  :fromname: Yours Truly Stationery And Gifts
+  :frommail: yourstrulyvfreshley@et.printswell.com
+  :logo: MD0072.gif
+  :web: http://yourstrulyvfreshley.printswell.com/
+  :email: vfreshley@verizon.net
+MI0007:
+  :fromname: Lee's Specialty
+  :frommail: leesspecialty@et.printswell.com
+  :logo: MI0007.gif
+  :web: http://leesspecialty.printswell.com/
+  :email: shop@leesspecialty.com
+MI0016:
+  :fromname: Susan Tisdel Ink
+  :frommail: susantisdelink@et.printswell.com
+  :logo: MI0016.gif
+  :web: http://susantisdelink.printswell.com/
+  :email: SDTisdel@aol.com
+MI0025:
+  :fromname: The Paper Peddler
+  :frommail: thepaperpeddler@et.printswell.com
+  :logo: MI0025.gif
+  :web: http://thepaperpeddler.printswell.com/
+  :email: thepaperpeddler1@gmail.com
+MI0085:
+  :fromname: Sincerely Yours
+  :frommail: sincerelyyoursinc@et.printswell.com
+  :logo: MI0085.gif
+  :web: http://sincerelyyoursinc.printswell.com/
+  :email: sales@sincerelyyoursinc.com
+MI0112:
+  :fromname: Orange Crush Invitations
+  :frommail: orangecrush@et.printswell.com
+  :logo: MI0112.gif
+  :web: http://orangecrush.printswell.com/
+  :email: orangecrushinvites@hotmail.com
+MI0115:
+  :fromname: Make A Note of It
+  :frommail: makeanoteofit@et.printswell.com
+  :logo: MI0115.gif
+  :web: http://makeanoteofit.printswell.com/
+  :email: barkeleys@icloud.com
+MI0130:
+  :fromname: Pineapple Rose Papers
+  :frommail: pineapplerosepapers@et.printswell.com
+  :logo: MI0130.gif
+  :web: http://pineapplerose.printswell.com/
+  :email: mollylamarche@mac.com
+MN0045:
+  :fromname: Suzadoo Designs
+  :frommail: suzadoodesigns@et.printswell.com
+  :logo: MN0045.gif
+  :web: http://suzadoodesigns.printswell.com/
+  :email: suzadoo@mchsi.com
+MO0007:
+  :fromname: The Write Impression
+  :frommail: thewriteimpression@et.printswell.com
+  :logo: MO0007.gif
+  :web: http://thewriteimpressions.printswell.com/
+  :email: thewriteimpression@sbcglobal.net
+MO0015:
+  :fromname: By Invitation Only
+  :frommail: byinvitationonly@et.printswell.com
+  :logo: MO0015.gif
+  :web: http://byinvitationonlystlouis.printswell.com/
+  :email: byinvonly@gmail.com
+MO0067:
+  :fromname: Stationery Designs STL
+  :frommail: stationerydesignsstl@et.printswell.com
+  :logo: MO0067.gif
+  :web: http://stationerydesignsstl.printswell.com/
+  :email: tammy@stationerydesignsstl.com
+MO0071:
+  :fromname: Celebrated Occasions
+  :frommail: celebratedoccasions@et.printswell.com
+  :logo: MO0071.gif
+  :web: http://celebratedoccasions.printswell.com/
+  :email: celebratedoccasions@juno.com
+MO0111:
+  :fromname: The Calligraphy Lady
+  :frommail: thecalligraphylady@et.printswell.com
+  :logo: MO0111.gif
+  :web: http://invitationer.printswell.com/
+  :email: calligraphylady@yahoo.com
+MS0082:
+  :fromname: Forrest Paper Company
+  :frommail: forrestpapercompany@et.printswell.com
+  :logo: MS0082.gif
+  :web: http://forrestpaper.printswell.com/
+  :email: cheryl@forrestpaper.com
+MS0119:
+  :fromname: Fresh Ink
+  :frommail: freshink@et.printswell.com
+  :logo: MS0119.gif
+  :web: http://freshink.printswell.com/
+  :email: info@fresh-ink.com
+MS0127:
+  :fromname: Swirlz
+  :frommail: swirlz@et.printswell.com
+  :logo: MS0127.gif
+  :web: http://swirlzonline.printswell.com/
+  :email: invitations@swirlzonline.com
+MS0131:
+  :fromname: The Bees Knees
+  :frommail: thebeesknees@et.printswell.com
+  :logo: MS0131.gif
+  :web: http://beesknees.printswell.com/
+  :email: lee@thebeeskneespaper.com
+MS0475:
+  :fromname: TMI Too Many Invitations LLC 
+  :frommail: tmiyazoo@et.printswell.com
+  :logo: MS0475.gif
+  :web: http://tmiyazoo.printswell.com/
+  :email: tmiyazoo@gmail.com
+MS0478:
+  :fromname: MADdesign
+  :frommail: maddesign@et.printswell.com
+  :logo: MS0478.gif
+  :web: http://maddesign.printswell.com/
+  :email: missy@maddesignms.com
+MT0002:
+  :fromname: Noteworthy Paper & Press
+  :frommail: noteworthypaperandpress@et.printswell.com
+  :logo: MT0002.gif
+  :web: http://noteworthystore.printswell.com/
+  :email: taylor@noteworthystore.com
+NC0038:
+  :fromname: Little House Shoppe
+  :frommail: littlehouseshoppe@et.printswell.com
+  :logo: NC0038.gif
+  :web: http://littlehouseshoppe.printswell.com/
+  :email: invitations@carolina.rr.com
+NC0127:
+  :fromname: The Paper Lady
+  :frommail: paperlady@et.printswell.com
+  :logo: NC0127.gif
+  :web: http://paperlady.printswell.com/
+  :email: debbyferg@hotmail.com
+NC0212:
+  :fromname: Tammy's Fine Papers & Gifts
+  :frommail: tammysfinepapers@et.printswell.com
+  :logo: NC0212.gif
+  :web: http://tammyspapersandgifts.printswell.com/
+  :email: tammy.haywood@nc.rr.com
+NC0363:
+  :fromname: Merry Invites
+  :frommail: Merry Invites@et.printswell.com
+  :logo: NC0363.gif
+  :web: http://merryinvites.printswell.com/
+  :email: merryinvites@gmail.com
+NC0368:
+  :fromname: Caroline's Gifts
+  :frommail: carolinesgifts@et.printswell.com
+  :logo: NC0368.gif
+  :web: http://carolinesgifts.printswell.com/
+  :email: carolinesgifts.2013@yahoo.com
+NC0376:
+  :fromname: Juliepatoolie's
+  :frommail: juliepatoolies@et.printswell.com
+  :logo: NC0376.gif
+  :web: http://juliepatoolies.printswell.com/
+  :email: juliepatooliedesign@gmail.com
+NC0383:
+  :fromname: A Notable Affair
+  :frommail: anotableaffair@et.printswell.com
+  :logo: NC0383.gif
+  :web: http://anotableaffair.printswell.com/
+  :email: anotableaffairnc@gmail.com
+NE0013:
+  :fromname: RSVP
+  :frommail: rsvp@et.printswell.com
+  :logo: NE0013.gif
+  :web: http://rsvpnotes.printswell.com/
+  :email: nanciRSVP@aol.com
+NJ0011:
+  :fromname: Invitations by Muriel
+  :frommail: invitationsbymuriel@et.printswell.com
+  :logo: NJ0011.gif
+  :web: http://invitationsbymurielmeiskin.printswell.com/
+  :email: murielmeiskin@optonline.net
+NJ0074:
+  :fromname: Invitations by Andi
+  :frommail: invitationsabyandi@et.printswell.com
+  :logo: NJ0074.gif
+  :web: http://invitebyandi.printswell.com/
+  :email: invitebyandi@gmail.com
+NJ0359:
+  :fromname: The Write Occasion
+  :frommail: writeoccasion@et.printswell.com
+  :logo: NJ0359.gif
+  :web: http://writeoccasion.printswell.com/
+  :email: writeoccasion@optonline.net
+NJ0422:
+  :fromname: Match Point Stationery LLC
+  :frommail: matchpointstationery@et.printswell.com
+  :logo: NJ0422.gif
+  :web: http://matchpoint.printswell.com/
+  :email: info@matchpointstationery.com
+NJ0427:
+  :fromname: Style Invitations
+  :frommail: styleinvitations@et.printswell.com
+  :logo: NJ0427.gif
+  :web: http://styleinvitations.printswell.com/
+  :email: melanie@styleinvitations.com
+NJ0459:
+  :fromname: Lina's Touch Invitations & Accessories LLCr Pals
+  :frommail: linastouchinvitation@et.printswell.com
+  :logo: NJ0459.gif
+  :web: http://linastouch.printswell.com/
+  :email: linamatt@ymail.com
+NJ0468:
+  :fromname: So Sweet Stationery
+  :frommail: sosweetstationery@et.printswell.com
+  :logo: NJ0468.gif
+  :web: http://sosweetstationery.printswell.com/
+  :email: shop@sosweetstationery.com
+NY0050:
+  :fromname: Plandome Paperie
+  :frommail: plandomepaperie@et.printswell.com
+  :logo: NY0050.gif
+  :web: http://plandomepaperie.printswell.com/
+  :email: info@plandomepaperie.com
+NY0136:
+  :fromname: Write On! Larchmont
+  :frommail: writeonlarchmont@et.printswell.com
+  :logo: NY0136.gif
+  :web: http://writeonlarchmont.printswell.com/
+  :email: writeonlarchmont@gmail.com
+NY0166:
+  :fromname: Personalize it!
+  :frommail: personalizeit@et.printswell.com
+  :logo: NY0166.gif
+  :web: http://personalizeit.printswell.com/
+  :email: jill@personalizeitstationery.com
+NY0180:
+  :fromname: Always Impressive
+  :frommail: alwaysimpressive @et.printswell.com
+  :logo: NY0180.gif
+  :web: http://alwaysimpressive.printswell.com/
+  :email: impressinvite@aol.com
+NY0260:
+  :fromname: Janice's Invites
+  :frommail: janicesinvites@et.printswell.com
+  :logo: NY0260.gif
+  :web: http://janicesinvites.printswell.com/
+  :email: jinvites@hotmail.com
+NY0290:
+  :fromname: Laura's Notes
+  :frommail: laurasnotes@et.printswell.com
+  :logo: NY0290.gif
+  :web: http://laurasnotes.printswell.com/
+  :email: laura@laurasnotes.com
+NY0371:
+  :fromname: Small Fry Press
+  :frommail: smallfrypress@et.printswell.com
+  :logo: NY0371.gif
+  :web: http://smallfrypress.printswell.com/
+  :email: smallfrypress@aol.com
+NY0483:
+  :fromname: Dorey K.
+  :frommail: doreyk@et.printswell.com
+  :logo: NY0483.gif
+  :web: http://doreyk.printswell.com/
+  :email: dorey.kappel@gmail.com
+NY0543:
+  :fromname: Just The Write Touch
+  :frommail: justthewritetouch@et.printswell.com
+  :logo: NY0543.gif
+  :web: http://justthewritetouch.printswell.com/
+  :email: justthewritetouch@yahoo.com
+NY0550:
+  :fromname: Party Accents
+  :frommail: partyaccents@et.printswell.com
+  :logo: NY0550.gif
+  :web: http://partyaccents.printswell.com/
+  :email: roberta@partyaccents.biz
+NY0569:
+  :fromname: Paper Treasures
+  :frommail: papertreasures@et.printswell.com
+  :logo: NY0569.gif
+  :web: http://papertreasures.printswell.com/
+  :email: papertreasures@optonline.net
+NY0606:
+  :fromname: Trendy Treasures Boutique
+  :frommail: trendytreasuresboutique@et.printswell.com
+  :logo: NY0606.gif
+  :web: http://trendytreasuresboutique.printswell.com/
+  :email: info@trendytreasuresboutique.com
+NY0630:
+  :fromname: Classy Correspondence
+  :frommail: classycorrespondence@et.printswell.com
+  :logo: NY0630.gif
+  :web: http://classycorrespondence.printswell.com/
+  :email: juliegoudge@gmail.com
+OH0026:
+  :fromname: Fine Lines
+  :frommail: finelines@et.printswell.com
+  :logo: OH0026.gif
+  :web: http://finelines.printswell.com/
+  :email: finelinesinc@msn.com
+OH0032:
+  :fromname: A. L. Wain Co.
+  :frommail: alwainco@et.printswell.com
+  :logo: OH0032.gif
+  :web: http://alwain.printswell.com/
+  :email: awgarnitz@gmail.com
+OH0108:
+  :fromname: the envelope please
+  :frommail: envelopeplease@et.printswell.com
+  :logo: OH0108.gif
+  :web: http://tep.printswell.com/
+  :email: envelope.please@yahoo.com
+OH0169:
+  :fromname: Personalize It
+  :frommail: personalizeit@et.printswell.com
+  :logo: OH0169.gif
+  :web: http://upersonalizeit.printswell.com/
+  :email: ordernotecards@gmail.com
+OH0171:
+  :fromname: So Inviting Designs
+  :frommail: soinvitingdesigns@et.printswell.com
+  :logo: OH0171.gif
+  :web: http://soinvitingdesigns.printswell.com/
+  :email: sarah@soinvitingdesigns.net
+OH0175:
+  :fromname: On Paper
+  :frommail: onpaper@et.printswell.com
+  :logo: OH0175.gif
+  :web: http://onpaper.printswell.com/
+  :email: writeon@onpaper.com
+OH0183:
+  :fromname: Stamler Design
+  :frommail: stamlerdesign@et.printswell.com
+  :logo: OH0183.gif
+  :web: http://stamlerdesign.printswell.com/
+  :email: cwstamler@gmail.com
+PA0161:
+  :fromname: Party Please
+  :frommail: partyplease@et.printswell.com
+  :logo: PA0161.gif
+  :web: http://partyplease.printswell.com/
+  :email: partyplease303@aol.com
+PA0178:
+  :fromname: M-Bellish
+  :frommail: mbellish@et.printswell.com
+  :logo: PA0178.gif
+  :web: http://m-bellish.printswell.com/
+  :email: grover2244@yahoo.com
+PA0210:
+  :fromname: Paper and Posh
+  :frommail: paperandposh@et.printswell.com
+  :logo: PA0210.gif
+  :web: http://paperandposhonline.printswell.com/
+  :email: lindsay@paperandposhonline.com
+PA0211:
+  :fromname: RM Creative Events
+  :frommail: rmcreativeevents@et.printswell.com
+  :logo: PA0211.gif
+  :web: http://rmeventsinc.printswell.com/
+  :email: rmyers@rmeventsinc.com
+PA0212:
+  :fromname: More Than Words
+  :frommail: morethanwords@et.printswell.com
+  :logo: PA0212.gif
+  :web: http://morethanwordspgh.printswell.com/
+  :email: mtwordspgh@aol.com
+PA0230:
+  :fromname: Stone Hill Paperie
+  :frommail: stonehillpaperie@et.printswell.com
+  :logo: PA0230.gif
+  :web: http://stonehillpaperie.printswell.com/
+  :email: amy@stonehillpaperie.com
+PR0010:
+  :fromname: L'invitation by Vicky
+  :frommail: linvitation@et.printswell.com
+  :logo: PR0010.gif
+  :web: http://linvitation.printswell.com/
+  :email: maestreotero@yahoo.com
+PR0024:
+  :fromname: fromudesigns
+  :frommail: fromudesigns@et.printswell.com
+  :logo: PR0024.gif
+  :web: http://fromudesigns.printswell.com/
+  :email: fromu@rocketmail.com
+SC0099:
+  :fromname: The Brown Bag
+  :frommail: thebrownbag@et.printswell.com
+  :logo: SC0099.gif
+  :web: http://thebrownbag.printswell.com/
+  :email: thebrownbagsc@yahoo.com
+SC0158:
+  :fromname: Lindsay Lane
+  :frommail: lindsaylane@et.printswell.com
+  :logo: SC0158.gif
+  :web: http://lindsaylane.printswell.com/
+  :email: lindsay@lindsay-lane.com
+PWRetail:
+  :fromname: PrintsWell
+  :frommail: printswell@et.printswell.com
+  :logo: stationerystore.gif
+  :web: http://www.printswell.com/
+  :email: websupport@printswell.com
+TN0038:
+  :fromname: Buchanan Ink
+  :frommail: buchananink@et.printswell.com
+  :logo: TN0038.gif
+  :web: http://buchananink.printswell.com/
+  :email: bb@buchananink.com
+TN0219:
+  :fromname: Paper Pals
+  :frommail: paperpals@et.printswell.com
+  :logo: TN0219.gif
+  :web: http://paperpals.printswell.com/
+  :email: max261@aol.com
+TN0227:
+  :fromname: Invitation Creations by Jennifer
+  :frommail: invitationcreationsbyjennifer@et.printswell.com
+  :logo: TN0227.gif
+  :web: http://invitationcreationsbyj.printswell.com/
+  :email: jennifer@invitationsbyj.com
+TN0284:
+  :fromname: Be Blessed Stationery & Gifts
+  :frommail: beblessedstationeryandgifts@et.printswell.com
+  :logo: TN0284.gif
+  :web: http://beblessed.printswell.com/
+  :email: aubreynwest@gmail.com
+TN0289:
+  :fromname: Cutie Pie Cards
+  :frommail: cutiepiecards@et.printswell.com
+  :logo: TN0289.gif
+  :web: http://cutiepiecards.printswell.com/
+  :email: cutiepiecards@charter.net
+TN0315:
+  :fromname: PWSTREET Photography & Design
+  :frommail: pwstreetphotography@et.printswell.com
+  :logo: TN0315.gif
+  :web: http://pwstreet.printswell.com/
+  :email: pennystreet@pwstreetphotography.com
+TX0024:
+  :fromname: A Perfect Pair by Julie and Sally
+  :frommail: aperfectpairbyjulieandsally@et.printswell.com
+  :logo: TX0024.gif
+  :web: http://aperfectpair.printswell.com/
+  :email: juliegoudge@gmail.com
+TX0046:
+  :fromname: The Write Choice
+  :frommail: thewritechoice@et.printswell.com
+  :logo: TX0046.gif
+  :web: http://thewritechoice.printswell.com/
+  :email: jennie.gilchrist@gmail.com
+TX0073:
+  :fromname: Best Wishes
+  :frommail: bestwishes@et.printswell.com
+  :logo: TX0073.gif
+  :web: http://bestwishes.printswell.com/
+  :email: courtney@bestwishesandmore.com
+TX0096:
+  :fromname: Papers and Plants Unlimited
+  :frommail: papersandplantsunlimited@et.printswell.com
+  :logo: TX0096.gif
+  :web: http://papersandplants.printswell.com/
+  :email: belinda@papersandplants.com
+TX0134:
+  :fromname: Write On Time Designs
+  :frommail: writeontimedesigns@et.printswell.com
+  :logo: TX0134.gif
+  :web: http://writeontime.printswell.com/
+  :email: mica@writeontime.us
+TX0315:
+  :fromname: French Blue Company
+  :frommail: frenchbluepapers@et.printswell.com
+  :logo: TX0315.gif
+  :web: http://frenchbluepapers.printswell.com/
+  :email: contactus@frenchbluepapers.com
+TX0334:
+  :fromname: Social Seasons
+  :frommail: socialseasons@@et.printswell.com
+  :logo: TX0334.gif
+  :web: http://socialseasons.printswell.com/
+  :email: socsea@swbell.net
+TX0336:
+  :fromname: Patricia's Printing Press
+  :frommail: patriciasprintingpress@et.printswell.com
+  :logo: TX0336.gif
+  :web: http://ppp.printswell.com/
+  :email: pmdmorris@aol.com
+TX0344:
+  :fromname: Shamrock Press
+  :frommail: shamrockpress@et.printswell.com
+  :logo: TX0344.gif
+  :web: http://shamrockpress.printswell.com/
+  :email: ShamrockPress@comcast.net
+TX0371:
+  :fromname: Little Miracles
+  :frommail: lucibelllittlemiracles@et.printswell.com
+  :logo: TX0371.gif
+  :web: http://lucibelllittlemiracles.printswell.com/
+  :email: lwpipes@yahoo.com
+TX0545:
+  :fromname: Good Gifts
+  :frommail: goodgifts@et.printswell.com
+  :logo: TX0545.gif
+  :web: http://goodgifts.printswell.com/
+  :email: ginna@goodgifts.cc
+TX0555:
+  :fromname: The Invitation Chicks
+  :frommail: theinvitationchicks@et.printswell.com
+  :logo: TX0555.gif
+  :web: http://theinvitationchicks.printswell.com/
+  :email: theinvitationchicks@gmail.com
+TX0565:
+  :fromname: Paper Ranch
+  :frommail: paperranch@et.printswell.com
+  :logo: TX0565.gif
+  :web: http://paperranch.printswell.com/
+  :email: casey@paperranch.net
+TX0608:
+  :fromname: Invitation Creations
+  :frommail: invitationcreations@et.printswell.com
+  :logo: TX0608.gif
+  :web: http://invitationcreations.printswell.com/
+  :email: anisa@invitationcreations.net
+TX0625:
+  :fromname: FeatherTree Invitations
+  :frommail: feathertreeinvites@et.printswell.com
+  :logo: TX0625.gif
+  :web: http://feathertreeinvites.printswell.com/
+  :email: lindseyneuhaus@mac.com
+TX0627:
+  :fromname: Sunshine Paperie
+  :frommail: sunshinepaperie@et.printswell.com
+  :logo: TX0627.gif
+  :web: http://sunshinepaperie.printswell.com/
+  :email: amy@sunshinepaperie.com
+TX0629:
+  :fromname: Paper Couture
+  :frommail: papercouture@et.printswell.com
+  :logo: TX0629.gif
+  :web: http://papercouture.printswell.com/
+  :email: jeradee@suddenlink.net
+TX0651:
+  :fromname: Paper Gudes
+  :frommail: papergudes@et.printswell.com
+  :logo: TX0651.gif
+  :web: http://papergudes.printswell.com/
+  :email: rebekah@mypaperink.com
+TX0682:
+  :fromname: The Waverly Paperie
+  :frommail: thewaverlypaperie@et.printswell.com
+  :logo: TX0682.gif
+  :web: http://thewaverlypaperie.printswell.com/
+  :email: lynsie@thewaverlypaperie.com
+TX0716:
+  :fromname: Gift & Gourmet
+  :frommail: giftandgourmetseguin@et.printswell.com
+  :logo: TX0716.gif
+  :web: http://giftandgourmetseguin.printswell.com/
+  :email: mary@giftandgourmetseguin.com
+TX0722:
+  :fromname: Invitation House
+  :frommail: invitationhouse@et.printswell.com
+  :logo: TX0722.gif
+  :web: http://invitationhousebiz.printswell.com/
+  :email: info@invitationhouse.biz
+TX0736:
+  :fromname: Duvall and Company
+  :frommail: duvallandcompany@et.printswell.com
+  :logo: TX0736.gif
+  :web: http://duvallandcompany.printswell.com/
+  :email: casey@duvallandcompany.com
+VA0135:
+  :fromname: Just Write For You
+  :frommail: justwriteforyou@et.printswell.com
+  :logo: VA0135.gif
+  :web: http://justwriteforyou.printswell.com/
+  :email: justwriteforyou@verizon.net
+VA0290:
+  :fromname: Live Love Paper
+  :frommail: livelovepaper@et.printswell.com
+  :logo: VA0290.gif
+  :web: http://livelovepaper.printswell.com/
+  :email: livelovepaper@yahoo.com
