@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qua",
+				"quarterbleed"
+			],
+			[
+				"ei",
+				"eightbleed"
+			],
+			[
+				"pap",
+				"paper_height"
+			],
+			[
+				"paper",
+				"paper_width"
+			],
+			[
+				"side",
+				"side_margin"
+			],
+			[
+				"up",
+				"up"
+			],
+			[
+				"conv",
+				"convert_duplex"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"conver",
+				"convert_paper"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"ca",
+				"card_types"
+			],
+			[
+				"dragon",
+				"dragon_options"
+			],
+			[
+				"drag",
+				"dragon_options"
+			],
+			[
+				"pick",
+				"pick_an_orange"
+			],
+			[
+				"tree",
+				"tree1"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"Or",
+				"OrangeTree"
+			],
+			[
+				"one",
+				"one_year_passes"
+			],
+			[
+				"or",
+				"oranges"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"pu",
+				"put_to_bed"
+			],
+			[
+				"stu",
+				"stuff_in_intestine"
+			],
+			[
+				"stuf",
+				"stuff_in_intestine"
+			],
+			[
+				"stuff",
+				"stuff_in_intestine"
+			],
+			[
+				"di",
+				"dice"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"cl",
+				"cla	class .. end"
+			],
+			[
+				"shuff",
+				"shuffle"
+			],
+			[
+				"b",
+				"bday"
+			],
+			[
+				"birth",
+				"birth_dates"
+			],
+			[
+				"birt",
+				"birth_dates"
+			],
+			[
+				"bir",
+				"birth_dates"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filenametwo"
+			],
+			[
+				"yam",
+				"yaml_load"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"deal",
+				"dealers"
+			],
+			[
+				"read",
+				"read"
+			],
+			[
+				"all",
+				"all_dealers"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"from",
+				"frommail"
+			],
+			[
+				"acc",
+				"acct_num"
+			],
+			[
+				"dea",
+				"dealers_list"
+			],
+			[
+				"renw",
+				"renew_year"
+			],
+			[
+				"doma",
+				"domain"
+			],
+			[
+				"ren",
+				"renew_year"
+			],
+			[
+				"rene",
+				"renew_rate"
+			],
+			[
+				"rew",
+				"renew_year"
+			],
+			[
+				"vid",
+				"video_dir"
+			],
+			[
+				"path",
+				"path_length"
+			],
+			[
+				"name",
+				"name_length"
+			],
+			[
+				"start",
+				"start_month"
+			],
+			[
+				"sta",
+				"start_year"
+			],
+			[
+				"per",
+				"per_month_array"
+			],
+			[
+				"fin",
+				"final_per_month"
+			],
+			[
+				"domain",
+				"domains"
+			],
+			[
+				"star",
+				"start_month"
+			],
+			[
+				"dom",
+				"domain_cost"
+			],
+			[
+				"tot",
+				"total_months"
+			],
+			[
+				"be",
+				"beccapeyton"
+			],
+			[
+				"st",
+				"start_from"
+			],
+			[
+				"renew",
+				"renewal_rate"
+			],
+			[
+				"rom",
+				"roman_numeral"
+			],
+			[
+				"get",
+				"get_a_numeral"
+			],
+			[
+				"lengh",
+				"length"
+			],
+			[
+				"ro",
+				"roman_numeral"
+			],
+			[
+				"roman",
+				"roman_numeral"
+			],
+			[
+				"valid",
+				"valid_check"
+			],
+			[
+				"roma",
+				"roman_numeral_len"
+			],
+			[
+				"new",
+				"new_price"
+			],
+			[
+				"exi",
+				"existing_money"
+			],
+			[
+				"pri",
+				"price_possibilities"
+			],
+			[
+				"item",
+				"item_price"
+			],
+			[
+				"app",
+				"apply_discount"
+			],
+			[
+				"ite",
+				"item_price"
+			],
+			[
+				"gene",
+				"genre"
+			],
+			[
+				"rick",
+				"ricks_shuffle"
+			],
+			[
+				"spl",
+				"split_music"
+			],
+			[
+				"fi",
+				"filename2"
+			],
+			[
+				"day",
+				"day_born"
+			],
+			[
+				"mon",
+				"month_born"
+			],
+			[
+				"year",
+				"year_born"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"pre",
+				"pretax"
+			],
+			[
+				"sil",
+				"silly_string"
+			],
+			[
+				"pic",
+				"picture_increment"
+			],
+			[
+				"pictu",
+				"picture_increment"
+			],
+			[
+				"pi",
+				"picture_increment"
+			],
+			[
+				"num",
+				"number3"
+			],
+			[
+				"batch",
+				"batch_name"
+			],
+			[
+				"Dir",
+				"Dir	Dir[\"..\"]"
+			],
+			[
+				"yaml",
+				"yaml_string"
+			],
+			[
+				"buffy",
+				"buffy_quote_2"
+			],
+			[
+				"buff",
+				"buffy_quote_2"
+			],
+			[
+				"test",
+				"test_string"
+			],
+			[
+				"Fil",
+				"File	File.read(\"..\")"
+			],
+			[
+				"w",
+				"w	attr_writer .."
+			],
+			[
+				"ones",
+				"ones_place"
+			],
+			[
+				"ten",
+				"tens_place"
+			],
+			[
+				"rec",
+				"recursive_shuffle"
+			],
+			[
+				"un",
+				"unshuffled_array"
+			],
+			[
+				"shuffle",
+				"shuffled_array"
+			],
+			[
+				"org",
+				"orig_array_shuffled"
+			],
+			[
+				"recu",
+				"recursive_sort"
+			],
+			[
+				"array",
+				"array_length"
+			],
+			[
+				"arra",
+				"array_spot"
+			],
+			[
+				"sorted",
+				"sorted_array"
+			],
+			[
+				"uns",
+				"unsorted_array"
+			],
+			[
+				"sort",
+				"sorted_array"
+			],
+			[
+				"sor",
+				"sorted_array"
+			],
+			[
+				"so",
+				"sorted_array"
+			],
+			[
+				"zeb",
+				"zebraint"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"dl",
+				"delete"
+			],
+			[
+				"fam",
+				"family"
+			],
+			[
+				"unsorted",
+				"unsorted_array"
+			],
+			[
+				"em",
+				"employee_check"
+			],
+			[
+				"bott",
+				"bottles_of_beer"
+			],
+			[
+				"ask",
+				"ask_number"
+			],
+			[
+				"wor",
+				"wor"
+			],
+			[
+				"l",
+				"line_length"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"color",
+				"colorHash"
+			],
+			[
+				"en",
+				"englishNumber"
+			],
+			[
+				"string",
+				"stringbuilder"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"strin",
+				"string1"
+			],
+			[
+				"str",
+				"string1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_email_updates/email-updates-import-new-emails.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_email_updates/email-updates-dealer-list-yaml.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_email_updates/email-updates-final-import-file.csv",
+		"/Users/rick/Dropbox/Reference/R/Ruby/fulfillment_pricing/pricing.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/fulfillment_pricing/testing.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_email_updates/email-updates-generate-import.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_6_B.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code2.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_1.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_2.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_3.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_5.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_6_A.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_4.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/untitled",
+		"/Users/rick/Dropbox/Reference/R/Ruby/birthdays.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/12.6_birthdays.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email-updates-generate-dealer-yaml.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email-updates-generate-import.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_to_import.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/import_addresses.csv",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_mailing_list_update.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealers_yaml.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all_dealers_yaml.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all-dealers.csv",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all-dealers.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/domains_budget.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/handbrake-helper.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_yaml.txt",
+		"/Users/rick/Dropbox/Shared Folders/Rick's Work Folder/The Landfill/tx0024.csv",
+		"/Users/rick/Desktop/handbrake.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter.12archive.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter12.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/amazon_calculator.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_hash_example.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/rick_test.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter10.rb",
+		"/Users/rick/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rick/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.3.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter10-englishnumber.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter7.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter8.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter9.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/bottles-of-beer.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter6.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter5.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/calc.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/letters.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter3.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter4.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter4.rg",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/BB72039C-90F1-403D-A50F-20911B0AFC37/fetch_history.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/6CD1B4D4-1EBF-431B-805B-75A42013C548/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/75CD4289-AAC1-49EB-941D-A97949E453F3/fetch_history.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/8A31C9E2-CF6A-45AB-A2C9-D75C2171062C/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/5070638A-841F-440A-9F00-3690FDB92FE6/inquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/684AAB0E-62E0-4ACC-9359-F32DDF6DB5E7/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/607E221F-45F1-4CCC-AAB6-03602D26F2F8/inquiry_handler_1.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/FCDAC51D-1DBE-4B52-A58C-F71CF7ED39CF/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/815B7A4A-82D3-4B8F-B84C-EE4EE8FCA7F9/inquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/1CFF25F7-15C1-4EBD-92FF-2E031637E1A1/updateinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/34DF5740-8EC2-4B4B-A910-EB7F9423CF75/inquiry_handler_2.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/D453489F-A5A9-4AF7-A9F3-48C8C0201E8D/addinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/5D458D57-3718-4D47-BCF2-86349CCB4F96/formtoemailpro.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/F93A54EF-FA61-49E9-A516-F7D7C2ED098D/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/A48A7BB1-F5C8-4BDD-99F1-6EA9EF976CC0/inquiry_handler_1.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/5C555016-D4CB-4A81-AD85-45DA7FCD2013/inquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/0B364330-BD6F-4AD7-8E68-DBF86BE6562D/updateinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/59F8E2CB-6367-469E-B258-ACB2109F839C/addinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/EF3ADC5A-6FC2-4443-A768-F23C66C898AE/inquiry_handler_2.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/6012AB4A-EE65-4290-9C84-B1B41B1AC381/inquiry_handler_1.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/9A35954D-123F-4617-B536-D9051E6F8212/index.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/4186A3CB-6A8F-4CEA-938D-0D218D71EE2B/inquiry_handler_2.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/F5EE58B9-8379-4C33-B99E-E67A2DDD879B/updateinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/DFEC8BF0-3393-4AA8-825E-39AA2EB99601/inquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/0D186AD8-CD5B-4E7B-B558-10E24BCF18D3/inquiry_handler_1.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/9C1B01F9-C67E-49EF-8471-29A1F911A0BE/addinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/2D1F63C0-C3EA-4600-BF92-EE9E1E6D5FB8/updateinquiry.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/D5312266-AD41-4619-92EA-D1E0F4379BF9/formtoemailpro.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/70757079-6815-4A09-853B-95BDE6CE1055/post_handler.php",
+		"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/8E577C8E-1253-45D2-8C02-2849D146101C/inquiry.php",
+		"/Users/rick/Dropbox/Reference/R/Ruby/ri20min.rb",
+		"/Users/rick/Dropbox/Shared Folders/Rick's Work Folder/Reference/R/Ruby/ri20min.rb",
+		"/Users/rick/Desktop/quiet/1-01-1a.m4a",
+		"/Users/rick/Desktop/quiet/1-02-1b-foreward.m4a",
+		"/Users/rick/Desktop/quiet/1-03-1c-introduction.m4a",
+		"/Users/rick/Desktop/quiet/1-04-1d.m4a",
+		"/Users/rick/Desktop/quiet/1-05-1e.m4a",
+		"/Users/rick/Desktop/quiet/1-06-1f.m4a",
+		"/Users/rick/Desktop/quiet/1-07-1g.m4a",
+		"/Users/rick/Desktop/quiet/1-08-1h.m4a",
+		"/Users/rick/Desktop/quiet/1-09-1i.m4a",
+		"/Users/rick/Desktop/quiet/1-10-1j.m4a",
+		"/Users/rick/Desktop/quiet/1-11-1k.m4a",
+		"/Users/rick/Desktop/quiet/1-12-1l.m4a",
+		"/Users/rick/Desktop/quiet/2-01-2a.m4a",
+		"/Users/rick/Desktop/quiet/2-02-2b.m4a",
+		"/Users/rick/Desktop/quiet/2-03-2c.m4a",
+		"/Users/rick/Desktop/quiet/2-04-2d.m4a",
+		"/Users/rick/Desktop/quiet/2-05-2e.m4a",
+		"/Users/rick/Desktop/quiet/2-06-2f.m4a",
+		"/Users/rick/Desktop/quiet/2-07-2g.m4a",
+		"/Users/rick/Desktop/quiet/2-08-2h.m4a",
+		"/Users/rick/Desktop/quiet/2-09-2i.m4a",
+		"/Users/rick/Desktop/quiet/2-10-2j.m4a",
+		"/Users/rick/Desktop/quiet/2-11-2k.m4a",
+		"/Users/rick/Desktop/quiet/2-12-2l.m4a",
+		"/Users/rick/Desktop/quiet/3-01-part-1~chapter-02~13.m4a",
+		"/Users/rick/Desktop/quiet/3-02-part-1~chapter-02~14.m4a",
+		"/Users/rick/Desktop/quiet/3-03-part-1~chapter-03~01.m4a",
+		"/Users/rick/Desktop/quiet/3-04-part-1~chapter-03~02.m4a",
+		"/Users/rick/Desktop/quiet/3-05-part-1~chapter-03~03.m4a",
+		"/Users/rick/Desktop/quiet/3-06-part-1~chapter-03~04.m4a",
+		"/Users/rick/Desktop/quiet/3-07-part-1~chapter-03~05.m4a",
+		"/Users/rick/Desktop/quiet/3-08-part-1~chapter-03~06.m4a",
+		"/Users/rick/Desktop/quiet/3-09-part-1~chapter-03~07.m4a",
+		"/Users/rick/Desktop/quiet/3-10-part-1~chapter-03~08.m4a",
+		"/Users/rick/Desktop/quiet/4-01-part-2~chapter-04~01.m4a",
+		"/Users/rick/Desktop/quiet/4-02-part-2~chapter-04~02.m4a",
+		"/Users/rick/Desktop/quiet/4-03-part-2~chapter-04~03.m4a",
+		"/Users/rick/Desktop/quiet/4-04-part-2~chapter-04~04.m4a",
+		"/Users/rick/Desktop/quiet/4-05-part-2~chapter-04~05.m4a",
+		"/Users/rick/Desktop/quiet/4-06-part-2~chapter-04~06.m4a",
+		"/Users/rick/Desktop/quiet/4-07-part-2~chapter-04~07.m4a"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"side",
+			"Cardstock",
+			"shuffle",
+			"returnmail",
+			"company",
+			" ",
+			"- ",
+			"\n",
+			"round",
+			"9.99",
+			"and",
+			"or",
+			"billion",
+			"million",
+			"thousand",
+			"0",
+			"englishNumber",
+			"$continue",
+			"else",
+			"if",
+			"php",
+			"Chevron Techron Fuel injector cleaner",
+			"footer-signup-and-social-left-half",
+			"footer-signup-and-social",
+			"templateBodyCell",
+			"background",
+			"footerBARtable",
+			"hp-sub-text-left",
+			"h2",
+			"navbarTable",
+			"navbar",
+			"raleway",
+			"phone",
+			"English Standard Version (ESV)",
+			"everyday",
+			"everday",
+			"\"/images",
+			"http://www.stacyclaireboyd.com",
+			"English Standard Version (ESV)",
+			"searchbox",
+			"search",
+			"styleheaderRIGHTsearch",
+			"search",
+			"logo",
+			"background",
+			"New International Version (NIV)\n",
+			"http://stationerystyle.com",
+			"”",
+			"jpg",
+			"./index_files",
+			"namecheap",
+			"example2",
+			"example1",
+			"/home/rick/public",
+			"example_user",
+			"example.com",
+			"domain1.com",
+			"demo",
+			"plato",
+			"plato.example.com",
+			"demo",
+			"16"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"selection",
+			"Card",
+			"shuffler",
+			"fromemail",
+			"fromname",
+			"",
+			",",
+			"'\n'",
+			",",
+			"10",
+			"or",
+			"and",
+			"trillion",
+			"billion",
+			"million",
+			"o",
+			"weddingNumber",
+			"",
+			"\"~$cdn~/themes/scb/images",
+			"",
+			"\"",
+			"scripts",
+			"example3",
+			"example2",
+			"/home/rick/public/examples.rickpeyton.com",
+			"rick",
+			"example1.rickpeyton.com",
+			"rickpeyton.com",
+			"rick",
+			"samuel",
+			"samuel.rickpeyton.com",
+			"rick"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/rick/Library/Caches/Cleanup At Startup/Transmit/86AF3344-0441-4336-BBD7-28222D5FC10C/footer.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true
+}
