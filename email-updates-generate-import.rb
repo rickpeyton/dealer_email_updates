@@ -36,9 +36,20 @@ logo = dealers_list[acct_num][:logo]
 url = dealers_list[acct_num][:web]
 reply = dealers_list[acct_num][:email]
 
+# Select a status to include.
+statuses = ['Active','Unsubscribed']
+x = 1
+statuses.each do |status|
+  puts "#{x} for #{status}"
+  x = x + 1
+end
+puts 'Select a status to import.'
+status = gets.chomp.to_i
+status = statuses[status - 1]
+
 File.open filename3, 'w' do |f|
-  f.write "Email Address,VariableFromName,VariableFromEmail,Variable Logo,Variable Website,VariableReplyEmail\n"
+  f.write "Email Address,VariableFromName,VariableFromEmail,Variable Logo,Variable Website,VariableReplyEmail,Status\n"
     email_addresses.each do |address|
-      f.write "#{address},#{company},#{from},#{logo},#{url},#{reply}\n"
+      f.write "#{address},#{company},#{from},#{logo},#{url},#{reply},#{status}\n"
     end
 end
